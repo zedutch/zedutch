@@ -1,4 +1,4 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zedutch&show_icons=true&theme=tokyonight&count_private=true&langs_count=10&layout=compact)
+Hi.
 
 <!--
 Here are some ideas to get you started:
